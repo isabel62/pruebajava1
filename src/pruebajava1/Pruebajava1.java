@@ -8,32 +8,32 @@ package pruebajava1;
  
 
   @author LAB08 ´{
-// Metodo de costructor
+// Metodo de costructor/**
+     * @param args the command line arguments*/
 public class Pruebajava1 { 
   int Area ;
   int base ;
   int Altura;
 
-} 
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(stringtln [] args) {
-      string out println("Por favor ingrese Area")
-      string out println("Por favor ingrese Base")
-      string out println(" po favor ingrese Altura")
+    
+  public static void main(String[] args) 
+´{   System.out.println("Por fovor ingrese Area");
+     System.out.println("Por favor ingrese Base");
+      System.out.println("Por favor ingrese Altura");
     //Aplicacion del proyecto
         // TODO code application logic hare
       
-    }
-    floatArea=restangulo
-    floatBase=restangulo
-    FloatAltura=restangulo
-intA.4
-intB.5
-int.("4x5"=20mtrs)/multiplicasion de Base y Altura
-int.("Area de restangulo= 20mts")
-int.(4,A x 5,B)<20mtrs=total /desarrollo la operacion
+
+    float Area;
+    float Base ;
+   Float Altura; 
+int.multiplicasion de Base ,Altura
+FLoat((2o);
+        
+        
+        
+        
+     
 // Conclucion  del  desarrollo
+}
 }
