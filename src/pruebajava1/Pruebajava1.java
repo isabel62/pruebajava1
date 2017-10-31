@@ -27,7 +27,7 @@ public class Pruebajava1 {
     float Area;
     float Base ;
    Float Altura; 
-int.multiplicasion de Base ,Altura
+float.multiplicasion de Base ,Altura
 FLoat((2o);
         
         
